@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mx5paRVry6VCJqM4JPTGsyPZ6XN8HjJzkRhIJnsTxODPCEvoH9ACOdx6qYp4eh39DSPTEeYarO9fkmBFGfQl9g==",
+  "success": true,
+  "projectFilePath": "D:\\NurselAltin_Odev1_BookWebAPI\\BookWebAPI\\BookWebAPI\\BookWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nursel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Nursel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Nursel\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Nursel\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Nursel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Nursel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
